@@ -44,3 +44,4 @@ Aplicação desenvolvida em Python e Streamlit para importação, tratamento, an
 
 - **LinkedIn:** [Moisés Figueiredo](https://www.linkedin.com/in/mois%C3%A9s-figueiredo-de-andrade-387152300/)
 - **GitHub:** [@msfandrad-e](https://github.com/msfandrad-e)
+- **E-Mail:** (moisesandradefigueiredo@gmail.com)
